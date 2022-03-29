@@ -3,7 +3,7 @@
 - 💻  Técnica em Informática para Internet. 
 
 - 📚  Estudante de Análise e Desenvolvimento de Sistemas.    
-- 📱  Amante do Front-end e dos dados.
+- 📱  Me descobrindo no mundo do Front-end e dos dados.
 
 
 <div align="center">
