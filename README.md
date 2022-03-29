@@ -1,4 +1,7 @@
 ## Oii eu sou a Ayla Carolina!
+-💻 Técnica em Informática para Internet. 
+-📚 Estudante de Análise e Desenvolvimento de Sistemas.    
+-📱 Amante do Front-end e dos dados.
 
 <div align="center">
   <a href="https://github.com/Ayla-Carolina">
