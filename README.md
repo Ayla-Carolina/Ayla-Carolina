@@ -6,7 +6,8 @@
 </div>
   
   <div>
-    <a href ="" > <img src= "" destino = ""> </a>
+    <div style="display: inline_block"><br>
+<img align="right" alt="Ayla-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/958336108628959233/958336108628959236/958336138333016085%22%3E" >
   
   ##
  
