@@ -17,7 +17,7 @@
   <img align="center" alt="Ayla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ayla-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 
-  <img align="right" alt="Ayla-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84017026/160624068-8f03c6b6-87fe-463c-a011-19adfd745452.gif">
+  <img align="right" alt="Ayla-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/958336108628959233/958336108628959236/978722165081903135">
 </div>
 
  
