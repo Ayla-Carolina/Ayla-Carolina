@@ -2,8 +2,10 @@
 
 - 💻  Técnica em Informática para Internet. 
 
-- 📚  Estudante de Análise e Desenvolvimento de Sistemas.    
-- 📱  Me descobrindo no mundo do Front-end e dos dados.
+- 📚  Estudante de Engenharia de Software na Fiap.    
+- 📱  Me descobrindo no mundo da programação. 
+#Front-end
+ 
 
 
 <div align="center">
