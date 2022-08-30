@@ -1,4 +1,4 @@
-## Oii eu sou a Ayla Carolina!
+## Oii, eu sou a Ayla Carolina!
 
 - 💻  Técnica em Informática para Internet. 
 
