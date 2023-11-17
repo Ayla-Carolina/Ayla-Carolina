@@ -4,7 +4,7 @@ Bem-vindo (a) aos meus projetos  *-*
 
 - 💻 Informática para Internet. 
 
-- 📚 Engenharia de Software na Fiap    
+- 📚 Engenharia de Software  
 
  
 
