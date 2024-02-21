@@ -18,9 +18,7 @@ Bem-vindo (a) aos meus projetos  *-*
   <img align="center" alt="Ayla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ayla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ayla-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-
-  <img align="right" alt="Ayla-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/958336108628959233/958336108628959236/978722165081903135">
+   <img align="right" alt="Ayla-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/958336108628959233/958336108628959236/978722165081903135">
 </div>
 
  
